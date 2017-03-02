@@ -1,0 +1,27 @@
+1. hadoop in layman's term
+
+• Hadoop is an open source, Java-based programming framework
+ that supports the processing of large data sets in a distributed 
+computing environment.
+storage and processing of large dataset.
+
+2. the components of Hadoop framework
+
+Two key components:
+1. Storage (of data and results)
+HDFS
+2. Processing (Analysis of data)
+Map reduce using pig ,hive.
+
+3. the reasons to learn Big data technologies
+
+• Demand for Big Data skills is extremely high, and being able to 
+prove your expertise iscritical.
+• 64% of IT hiring managers rate skilled big data knowledge as 
+having extremely high or high value when rating expertise of 
+candidates, based on a survey by CompTIA
+• According to Forbes, the median advertised salary for professionals
+ with Big Data expertise is $124,000 a year
+• IBM, Cisco, and Oracle together advertised 26,488 open positions
+ that required Big
+Data expertise in the last twelve months
